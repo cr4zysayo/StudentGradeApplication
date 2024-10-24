@@ -1,0 +1,5 @@
+C:\Users\PC\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.Form1.resources
+C:\Users\PC\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.Properties.Resources.resources
+C:\Users\PC\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.CoreCompileInputs.cache
